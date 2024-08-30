@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Article App</string>
+    <string name="title_article">Article</string>
+    <string name="description">Description</string>
+    <string name="description_detail_title">Description</string>
+    <string name="info">info</string>
+    <string name="detail">Detail</string>
+    <string-array name="article_title">
+        <item>Prancis Bebaskan Miliarder Bos Telegram Pavel Durov dengan Jaminan Rp85,8 Miliar</item>
+        <item>Jaringan TON Kembali Aktif Setelah Gangguan Akibat Airdrop Token DOGS Senilai $550 Juta!</item>
+        <item>MATIC: Harga Turun 18% Meskipun Ada Peningkatan Jaringan – Apa yang Terjadi?</item>
+    </string-array>
+    <string-array name="article_description">
+        <item>PARIS - Pihak berwenang Prancis telah membebaskan miliarder Rusia pendiri Telegram Pavel Durov dari penjara dengan jaminan €5 juta (lebih dari Rp85,8 miliar). Meski demikian, pengadilan Prancis juga secara resmi mendakwa Durov atas serangkaian pelanggaran dan melarangnya meninggalkan Prancis hingga kasusnya rampung. Durov muncul di hadapan pengadilan magistrat di Paris pada hari Rabu, empat hari setelah dia ditangkap polisi saat tiba di Ibu Kota Prancis dengan jet pribadi dari Azerbaijan. Prancis Bebaskan Miliarder Bos Telegram Pavel Durov dengan Jaminan Rp85,8 Miliar Dalam sebuah pernyataan yang dirilis pada Rabu (28/8/2024) malam, pengadilan mengatakan bahwa Durov telah secara resmi didakwa dengan belasan pelanggaran, termasuk terlibat dalam mengelola platform daring yang digunakan oleh geng kriminal untuk melakukan transaksi terlarang—tuduhan yang menurut pengadilan dapat berakhir dengan hukuman maksimal 10 tahun penjara. Sisa dakwaan, yang diumumkan sebelumnya oleh jaksa pada hari Senin, termasuk memfasilitasi penipuan, pencucian uang, dan distribusi narkotika dan pornografi anak, serta penolakan untuk menyerahkan data pengguna kepada penegak hukum. Miliarder Rusia itu juga memiliki kewarganegaraan Prancis, Uni Emirat Arab, serta St Kitts dan Nevis—negara di Karibia. Dia diperintahkan untuk tetap berada di Prancis hingga penyelidikan terhadapnya selesai, dan diwajibkan melapor ke kantor polisi dua kali seminggu. Penyelidikan kriminal di Prancis dijalankan oleh hakim khusus—hakim yang diberi kewenangan investigasi yang luas. Dakwaan seperti yang dijatuhkan kepada Durov biasanya diumumkan sebelum penyidik selesai mengumpulkan bukti, dan dapat dibatalkan kapan saja jika tidak dapat dibuktikan.</item>
+        <item>Jakarta, Pintu News – Jaringan blockchain TON, yang terkait dengan Telegram, telah kembali beroperasi setelah mengalami gangguan signifikan selama hampir enam jam. Gangguan ini disebabkan oleh lonjakan lalu lintas jaringan akibat airdrop token memecoin DOGS senilai lebih dari $550 juta. Beberapa anggota komunitas berspekulasi bahwa gangguan tersebut mungkin terkait dengan penangkapan CEO Telegram Pavel Durov di Prancis. Pada tanggal 21 Agustus, Durov ditangkap di Paris dan didakwa dengan tuduhan memfasilitasi transaksi ilegal, menolak bekerja sama dengan penegak hukum, dan mengizinkan berbagai aktivitas melanggar hukum terjadi di aplikasi pesan sosial tersebut. Namun, kepala TON Ventures, Ian Wittkopp, mengklarifikasi bahwa gangguan tersebut disebabkan oleh tingginya volume transaksi dari airdrop token memecoin DOGS senilai lebih dari $550 juta kepada komunitas. Ia menambahkan bahwa ini mungkin merupakan hari dengan jumlah pengguna aktif tertinggi di TON.</item>
+        <item>Polygon telah merilis detail baru tentang peningkatan jaringan yang akan datang, yang disebut POL. Peningkatan ini akan membawa manfaat signifikan, termasuk fitur-fitur baru yang meningkatkan kegunaan dan keamanan jaringan.
+
+Salah satu tambahan yang paling penting adalah dimasukkannya peran baru untuk validator. Ini akan meningkatkan insentif bagi validator dan menciptakan motivasi untuk partisipasi on-chain yang lebih luas.
+
+POL juga melampaui konsep token tradisional dan memperkenalkan konsep token hiperproduktif. Ini akan meningkatkan utilitas, skalabilitas, dan produktivitas di seluruh jaringan Polygon.</item>
+    </string-array>
+    <string-array name="article_image">
+        <item>https://akcdn.detik.net.id/visual/2020/02/03/81413aba-7d90-4cbe-9cbb-c9d9aa3e5677_169.png</item>
+        <item>https://blog.pintu.co.id/wp-content/uploads/2024/08/dogs-token.jpg</item>
+        <item>https://blog.pintu.co.id/wp-content/uploads/2024/05/polygon-crypto.jpg</item>
+    </string-array>
+</resources>
