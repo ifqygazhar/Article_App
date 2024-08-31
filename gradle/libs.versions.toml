@@ -1,7 +1,9 @@
 [versions]
 agp = "8.5.0"
+autoimageslider = "1.4.0-appcompat"
 glide = "4.16.0"
 gpuimage = "2.1.0"
+imageslideshow = "0.1.2"
 kotlin = "1.9.0"
 coreKtx = "1.13.1"
 junit = "4.13.2"
@@ -17,8 +19,10 @@ picassoTransformations = "2.4.0"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+autoimageslider = { module = "com.github.smarteist:autoimageslider", version.ref = "autoimageslider" }
 glide = { module = "com.github.bumptech.glide:glide", version.ref = "glide" }
 gpuimage = { module = "jp.co.cyberagent.android:gpuimage", version.ref = "gpuimage" }
+imageslideshow = { module = "com.github.denzcoskun:ImageSlideshow", version.ref = "imageslideshow" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
 androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }

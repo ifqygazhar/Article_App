@@ -22,7 +22,7 @@ class ListAdapterArticle(private val listArticle: ArrayList<Article>) :
     override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
 
         val (title, description, image) = listArticle[position]
-        Util.loadImage(holder.binding.imgArticle, image, R.drawable.ic_launcher_foreground)
+        Util.loadImage(holder.itemView.context,holder.binding.imgArticle, image, R.color.placeholder)
         holder.binding.tvItemTitle.text = title
         holder.binding.tvItemDescription.text = description
 

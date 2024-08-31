@@ -1,25 +1,38 @@
 package com.example.submissiondicodingandroidpemula
 
+import android.content.Context
+import android.graphics.drawable.ColorDrawable
 import android.widget.ImageView
+import androidx.core.content.ContextCompat
 import com.squareup.picasso.Picasso
+import jp.wasabeef.picasso.transformations.CropCircleTransformation
 import jp.wasabeef.picasso.transformations.RoundedCornersTransformation
 
 class Util {
     companion object {
 
         fun loadImage(
-            imageView: ImageView,
+            context: Context,
+            imageView: ImageView?,
             imageUrl: String,
-            placeholder: Int
+            placeholder: Int,
+            isCircle: Boolean = false
         ) {
-            Picasso.get()
+            val placeholderDrawable = ColorDrawable(ContextCompat.getColor(context, placeholder))
+            val picassoBuilder = Picasso.get()
                 .load(imageUrl)
-                .placeholder(placeholder)
-                .error(placeholder)
+                .placeholder(placeholderDrawable)
+                .error(placeholderDrawable)
                 .fit()
                 .centerCrop()
-                .transform(RoundedCornersTransformation(12, 0))
-                .into(imageView)
+
+            if (isCircle) {
+                picassoBuilder.transform(CropCircleTransformation())
+            } else {
+                picassoBuilder.transform(RoundedCornersTransformation(12, 0))
+            }
+
+            picassoBuilder.into(imageView)
         }
     }
 }

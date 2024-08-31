@@ -54,6 +54,7 @@ dependencies {
     implementation(libs.picasso.transformations)
     implementation(libs.gpuimage)
     implementation(libs.picasso)
+    implementation(libs.imageslideshow)
 
 
 }

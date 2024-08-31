@@ -3,12 +3,24 @@
     <string name="title_article">Article</string>
     <string name="description">Description</string>
     <string name="description_detail_title">Description</string>
-    <string name="info">info</string>
+    <string name="about_photo">https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:9969e252ad1bc867b441b5035e1d9f3920230911155310.png</string>
+    <string name="about_name">Ifqy Gifha Azhar</string>
+    <string name="about_email">ifqygazhar@gmail.com</string>
     <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="latest">Latest News</string>
     <string-array name="article_title">
         <item>Prancis Bebaskan Miliarder Bos Telegram Pavel Durov dengan Jaminan Rp85,8 Miliar</item>
         <item>Jaringan TON Kembali Aktif Setelah Gangguan Akibat Airdrop Token DOGS Senilai $550 Juta!</item>
         <item>MATIC: Harga Turun 18% Meskipun Ada Peningkatan Jaringan – Apa yang Terjadi?</item>
+        <item>Tertunda, Pendaftaran Perusahaan Kripto di Inggris Memakan Waktu Hingga 459 Hari!</item>
+        <item>Inovasi Chip Baru Dorong Jaringan 6G: Masa Depan AI, Blockchain, dan Metaverse dalam Satu Dekade?</item>
+        <item>Waspada, Peretas Korea Utara Manfaatkan Celah di Chrome untuk Curi Kripto!</item>
+        <item>Selain DOGS, Ini Meme Coin TON yang Berpotensi Melonjak di Tahun 2024!</item>
+        <item>Mahkamah Agung Brasil Larang Platform X Milik Elon Musk, Apa yang Terjadi?</item>
+        <item>Chainlink Bisa Anjlok ke $8 Jika Kehilangan Support Saat Ini: Data On-Chain Mengungkap</item>
+        <item>Dogwifhat di Ujung Tanduk: Bisakah WIF Bertahan di Atas $1,47 Saat Tekanan Bear Meningkat?</item>
     </string-array>
     <string-array name="article_description">
         <item>PARIS - Pihak berwenang Prancis telah membebaskan miliarder Rusia pendiri Telegram Pavel Durov dari penjara dengan jaminan €5 juta (lebih dari Rp85,8 miliar). Meski demikian, pengadilan Prancis juga secara resmi mendakwa Durov atas serangkaian pelanggaran dan melarangnya meninggalkan Prancis hingga kasusnya rampung. Durov muncul di hadapan pengadilan magistrat di Paris pada hari Rabu, empat hari setelah dia ditangkap polisi saat tiba di Ibu Kota Prancis dengan jet pribadi dari Azerbaijan. Prancis Bebaskan Miliarder Bos Telegram Pavel Durov dengan Jaminan Rp85,8 Miliar Dalam sebuah pernyataan yang dirilis pada Rabu (28/8/2024) malam, pengadilan mengatakan bahwa Durov telah secara resmi didakwa dengan belasan pelanggaran, termasuk terlibat dalam mengelola platform daring yang digunakan oleh geng kriminal untuk melakukan transaksi terlarang—tuduhan yang menurut pengadilan dapat berakhir dengan hukuman maksimal 10 tahun penjara. Sisa dakwaan, yang diumumkan sebelumnya oleh jaksa pada hari Senin, termasuk memfasilitasi penipuan, pencucian uang, dan distribusi narkotika dan pornografi anak, serta penolakan untuk menyerahkan data pengguna kepada penegak hukum. Miliarder Rusia itu juga memiliki kewarganegaraan Prancis, Uni Emirat Arab, serta St Kitts dan Nevis—negara di Karibia. Dia diperintahkan untuk tetap berada di Prancis hingga penyelidikan terhadapnya selesai, dan diwajibkan melapor ke kantor polisi dua kali seminggu. Penyelidikan kriminal di Prancis dijalankan oleh hakim khusus—hakim yang diberi kewenangan investigasi yang luas. Dakwaan seperti yang dijatuhkan kepada Durov biasanya diumumkan sebelum penyidik selesai mengumpulkan bukti, dan dapat dibatalkan kapan saja jika tidak dapat dibuktikan.</item>
@@ -18,10 +30,53 @@
 Salah satu tambahan yang paling penting adalah dimasukkannya peran baru untuk validator. Ini akan meningkatkan insentif bagi validator dan menciptakan motivasi untuk partisipasi on-chain yang lebih luas.
 
 POL juga melampaui konsep token tradisional dan memperkenalkan konsep token hiperproduktif. Ini akan meningkatkan utilitas, skalabilitas, dan produktivitas di seluruh jaringan Polygon.</item>
+        <item>Jakarta, Pintu News – Proses pendaftaran perusahaan kripto di Inggris yang diawasi oleh Financial Conduct Authority (FCA) bisa memakan waktu lebih dari setahun, dengan rata-rata 459 hari dalam tiga tahun terakhir.
+
+Menurut laporan dari firma hukum Reed Smith, hal ini telah menjadi penghambat bagi ambisi Inggris untuk menjadi pusat kripto global. Simak berita lengkapnya berikut ini! Laporan tersebut menyatakan bahwa jumlah aplikasi yang masuk ke FCA semakin menurun, dengan sedikitnya aplikasi baru yang diterima setelah banyak perusahaan menarik permohonan mereka.
+
+Data yang diungkap oleh Reed Smith menunjukkan bahwa dalam tiga tahun terakhir, FCA telah menghabiskan 25 tahun waktu tenaga kerja untuk memproses aplikasi ini. Meskipun ada peningkatan kecepatan dalam beberapa waktu terakhir, waktu pemrosesan yang lama masih menjadi tantangan besar bagi perusahaan-perusahaan kripto yang ingin beroperasi di Inggris.</item>
+        <item>Jakarta, Pintu News – Penelitian terobosan dalam bidang komunikasi seluler bisa membawa jaringan 6G menjadi kenyataan dalam dekade berikutnya, menurut ilmuwan yang memimpin proyek ini. Teknologi jaringan seluler generasi saat ini, 5G, diimplementasikan pada tahun 2019.
+
+Namun, generasi berikutnya, 6G, diprediksi akan merevolusi komunikasi di hampir setiap sektor. Tim peneliti internasional yang dipimpin oleh Universitas Adelaide berhasil mengembangkan dan menguji solusi chip silikon pertama di dunia yang mampu mendukung komunikasi 6G. Simak berita lengkapnya berikut ini! Penelitian ini awalnya memperkirakan bahwa jaringan 6G baru akan mulai memiliki pijakan komersial sekitar akhir 2030-an. Namun, dengan adanya terobosan chip ini, pengembangan teknologi 6G bisa dipercepat.
+
+Menurut rilis pers dari universitas, tim peneliti berharap pekerjaan mereka akan mendorong seluruh bidang komunikasi ke depan lebih cepat dari yang diperkirakan. Profesor Withawat Withayachumnankul, yang memimpin penelitian ini, memperkirakan bahwa adopsi luas dan integrasi teknologi terahertz ini akan terjadi dalam satu dekade.</item>
+        <item>Jakarta, Pintu News – Kelompok peretas asal Korea Utara, yang dikenal dengan nama Citrine Sleet, telah berhasil mengeksploitasi celah keamanan pada mesin Chromium, yang digunakan oleh peramban populer seperti Google Chrome dan Microsoft Edge.
+
+Serangan ini menargetkan organisasi dan individu yang terlibat dalam dunia kripto, dengan tujuan utama mencuri aset digital mereka. Microsoft mengungkapkan bahwa mereka pertama kali mendeteksi aktivitas ini pada 19 Agustus 2024, dan celah keamanan tersebut telah diperbaiki oleh Google dua hari kemudian, pada 21 Agustus 2024.
+
+Celah ini merupakan jenis zero-day yang berarti Google belum menyadari adanya kelemahan tersebut hingga dieksploitasi oleh para peretas. Microsoft telah mengingatkan para pengguna yang menjadi target serangan ini untuk segera memperbarui peramban mereka agar terhindar dari ancaman lebih lanjut. Simak informasi lengkapnya berikut ini!
+        Kelompok Citrine Sleet dikenal dengan metode canggih mereka dalam melakukan serangan siber, terutama dengan menggunakan rekayasa sosial untuk menipu korban. Salah satu taktik utama mereka adalah menciptakan situs web palsu yang tampak seperti platform perdagangan kripto yang sah.
+
+Situs-situs ini dirancang untuk menarik korban agar mengunduh aplikasi dompet kripto atau aplikasi perdagangan yang telah disusupi, yang sebenarnya merupakan perangkat lunak berbahaya bernama AppleJeus.</item>
+        <item>Jakarta, Pintu News – Dunia cryptocurrency penuh dengan berbagai jenis aset digital, dan salah satu koleksi paling berwarna adalah memecoin.
+
+Awalnya lahir sebagai lelucon, memecoin kini telah berkembang menjadi gerakan kontra budaya yang kuat dalam dunia keuangan. Dari kesuksesan viral Dogecoin hingga kebangkitan Shiba Inu, memecoin kini menjadi pesaing serius bagi aset kripto arus utama.
+
+Dengan munculnya blockchain TON (The Open Network) pada tahun 2024, memecoin mendapatkan lahan baru yang subur untuk inovasi dan kesenangan.
+
+TON, yang awalnya dikembangkan oleh Telegram, dirancang untuk menjadi platform blockchain yang cepat, aman, dan skalabel, ideal untuk aplikasi terdesentralisasi, termasuk peluncuran memecoin.</item>
+        <item>Jakarta, Pintu News – Mahkamah Agung Brasil membuat keputusan mengejutkan dengan melarang operasi platform media sosial X, yang dimiliki oleh Elon Musk, di seluruh wilayah negara tersebut.
+
+Keputusan ini diambil setelah X, sebelumnya dikenal sebagai Twitter, gagal memenuhi kewajiban hukum untuk menunjuk perwakilan hukum resmi di Brasil.
+
+Langkah ini merupakan pukulan besar bagi Elon Musk dan upayanya untuk memperluas pengaruh X di pasar global, terutama di Amerika Latin.
+
+Keputusan tersebut datang di tengah kekhawatiran yang berkembang tentang peran media sosial dalam menyebarkan informasi yang salah dan konten ilegal di Brasil, sebuah negara dengan salah satu populasi pengguna internet terbesar di dunia.
+
+Mahkamah Agung menyatakan bahwa ketidakpatuhan X terhadap peraturan lokal menunjukkan kurangnya tanggung jawab perusahaan dalam menanggapi masalah hukum yang serius. imak berita lengkapnya di sini!</item>
+        <item>Jakarta, Pintu News – Harga Chainlink LINK 0.45% -> Harga LINK Saat Ini Rp 173.130 0.45% Market Cap Rp 105,14 Triliun Volume Trading Rp 4,06 Triliun Suplai Beredar Rp 608.099.971 mengalami volatilitas signifikan minggu ini. Harganya turun lebih dari 13% dari tertinggi hari Senin, membawa LINK ke level support kritis di sekitar $11,20. Trader dan investor sedang memantau area penting ini dengan cermat.</item>
+        <item>Jakarta, Pintu News – Dogwifhat WIF 2.50% -> berada di titik keritis karena harga nya melayang melayang di sekitar level support $1,47, dengan tekanan bearish yang meningkat. Setelah periode stabilitas relatif, kripto ini sekarang berada di bawah ancaman dari momentum jual baru yang dapat mendorongnya di bawah ambang batas utama ini. Penembusan di bawah level kritis ini dapat membuka pintu air untuk penurunan lebih lanjut, sementara pertahanan yang berhasil dapat menandakan potensi pembalikan</item>
     </string-array>
     <string-array name="article_image">
         <item>https://akcdn.detik.net.id/visual/2020/02/03/81413aba-7d90-4cbe-9cbb-c9d9aa3e5677_169.png</item>
         <item>https://blog.pintu.co.id/wp-content/uploads/2024/08/dogs-token.jpg</item>
         <item>https://blog.pintu.co.id/wp-content/uploads/2024/05/polygon-crypto.jpg</item>
+        <item>https://blog.pintu.co.id/wp-content/uploads/2023/10/uu-crypto-baru-inggris.jpg</item>
+        <item>https://blog.pintu.co.id/wp-content/uploads/2024/08/inovasi-chip-6g.jpg</item>
+        <item>https://blog.pintu.co.id/wp-content/uploads/2024/06/korea-blockchain.jpg</item>
+        <item>https://blog.pintu.co.id/wp-content/uploads/2024/08/memecoin-ton-1.jpg</item>
+        <item>https://blog.pintu.co.id/wp-content/uploads/2023/10/elon-musk-platform-x.jpg</item>
+        <item>https://blog.pintu.co.id/wp-content/uploads/2024/01/chainlink.jpg</item>
+        <item>https://blog.pintu.co.id/wp-content/uploads/2023/12/dogwifhat-harga-drastis.jpeg</item>
     </string-array>
 </resources>
