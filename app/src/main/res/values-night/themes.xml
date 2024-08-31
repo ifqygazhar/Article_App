@@ -5,7 +5,6 @@
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
         <!-- primary brand color -->
         <item name="colorPrimary">@color/primaryDark</item>
-        <item name="colorOnPrimary">@color/backgroundColor</item>
         <!-- Secondary brand color. -->
         <item name="colorOnSecondary">@color/white</item>
     </style>
