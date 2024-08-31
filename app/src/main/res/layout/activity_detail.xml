@@ -20,7 +20,8 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:background="?attr/colorPrimary"
-        app:layout_constraintTop_toBottomOf="@id/include_toolbar">
+        app:layout_constraintTop_toBottomOf="@id/include_toolbar"
+        app:layout_constraintBottom_toBottomOf="parent">
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
@@ -76,12 +77,14 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="16dp"
                 android:layout_marginTop="8dp"
+                android:layout_marginBottom="16dp"
                 android:justificationMode="inter_word"
                 android:lineSpacingExtra="12sp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/tv_detail_description"
+                app:layout_constraintBottom_toBottomOf="parent"
                 tools:text="descriptioncontent" />
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>
